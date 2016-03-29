@@ -12,6 +12,7 @@
 * Conditions
 * Loops
 * Functions
+* File Handling 
 * Classes
 * Modules
 * Exception Handling
