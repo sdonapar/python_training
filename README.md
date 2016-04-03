@@ -4,7 +4,7 @@
 
 * Installation, Python and Ipython shell
 * Why Python ?
-* Introduction to Ipython notebooks
+* Introduction to Jupyter notebooks
 * Variables and Types
 * Basic Operators
 * List, Dictionary, Tuple, Set Types
